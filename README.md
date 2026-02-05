@@ -5,9 +5,9 @@ Hey 👋 I'm Jonas also known as Black_Wither. Currently I'm a Mini Developer at
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=ed688e&vCenter=true&repeat=false&width=435&height=80&lines=Current+projects)]()
-- <span style="font-size: 1.5em;"><img src="https://cdn.wolvesville.com/roleIcons/icon_default_werewolf_filled@2x.png" alt="icon" style="height: 2em; vertical-align: middle;" /> [Wolvesville](https://wolvesville.com)</span>
-- <span style="font-size: 1.5em;"><img src="https://cdn.wolvesville.com/roleIcons/icon_legendary_card_alpha_werewolf_filled@2x.png" alt="icon" style="height: 2em; vertical-align: middle;" /> [GoldWolf](https://discord.com/discovery/applications/1192546322738319370)</span>
-- <span style="font-size: 1.5em;"><img src="https://cdn.wolvesville.com/roleIcons/icon_default_corruptor_filled@2x.png" alt="icon" style="height: 2em; vertical-align: middle;" /> [Wolvesville.js](https://github.com/wolvesvillejs/wolvesville.js)</span>
+### <img src="https://cdn.wolvesville.com/roleIcons/icon_default_werewolf_filled@2x.png" alt="icon" style="height: 1em; vertical-align: middle;" /> [Wolvesville](https://wolvesville.com)
+### <img src="https://cdn.wolvesville.com/roleIcons/icon_legendary_card_alpha_werewolf_filled@2x.png" alt="icon" style="height: 1em; vertical-align: middle;" /> [GoldWolf](https://discord.com/discovery/applications/1192546322738319370)
+### <img src="https://cdn.wolvesville.com/roleIcons/icon_default_corruptor_filled@2x.png" alt="icon" style="height: 1em; vertical-align: middle;" /> [Wolvesville.js](https://github.com/wolvesvillejs/wolvesville.js)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&duration=1000&pause=1000&color=ed688e&vCenter=true&repeat=false&width=435&height=80&lines=Connect+with+me)]()
 <p align="left">
