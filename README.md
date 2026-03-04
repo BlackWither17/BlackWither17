@@ -20,9 +20,10 @@ Hey 👋 I'm Jonas also known as Black_Wither. Currently I'm a Mini Developer at
 
 ---
 
-<p><img align="left" src="https://github-readme-stats-taupe-gamma-54.vercel.app/api/top-langs?username=blackwither17&show_icons=true&locale=en&layout=compact&theme=dracula&height=195" alt="blackwither17" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats-taupe-gamma-54.vercel.app/api/top-langs?username=blackwither17&show_icons=true&locale=en&layout=compact&theme=dracula&height=195" alt="blackwither17" /></p> -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=BlackWither17&theme=dracula&exclude_days=Sat%2CSun" alt="blackwither17" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-taupe-gamma-54.vercel.app/api?username=blackwither17&show_icons=true&locale=en&theme=dracula&height=195" alt="blackwither17" /></p>
+
 
 <!--
 **BlackWither17/BlackWither17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
