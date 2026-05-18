@@ -83,6 +83,7 @@ Hey! I'm **Jonas**, aka **Black_Wither** — a developer with a passion for buil
 
 <div align="left">
 
+[![Discord](https://img.shields.io/badge/@black_wither-2596be?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/810579335727677472)
 [![Instagram](https://img.shields.io/badge/@black__wither17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/black_wither17)
 [![YouTube](https://img.shields.io/badge/@Black__Wither-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Black_Wither)
 
